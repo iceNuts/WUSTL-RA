@@ -1,0 +1,6 @@
+*output
+*temp
+*.pyc
+*prev-code
+*.DS_Store
+*.pdf
